@@ -59,6 +59,6 @@
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2023 Junlee
+  &copy; 2023 Junlee_:D
 </div>
 
