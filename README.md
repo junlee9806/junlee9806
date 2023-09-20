@@ -8,7 +8,7 @@
 - :school: I'm currently the Final year student at **GAME & CONTINUING EDUCATION CENTER OF SOGANG UNIVERSITY**
 - :books: My major is **game design**
 - :earth_asia: I'm living now in **Seoul, South Korea**
-- :sweat_smile: I'm a intermediate in coding :penguin:
+- :sweat_smile: I'm a beginner in coding :penguin:
 - :monocle_face: I'm interested play gameing, sleeping, and watching film
 - :sunglasses: My quote is **_"It's never too late - never too late to start over, never too late to be happy"_**
 - :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
