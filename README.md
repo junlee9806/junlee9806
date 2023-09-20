@@ -45,9 +45,7 @@
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
 <p align="center">
-  <a href="lj980603@gmail.com" >
-    <img align="center" alt="Junlee | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
+
   
   <a href="https://www.linkedin.com/in/%EC%A3%BC%EB%85%B8-%EC%9D%B4-53bb2aa3/" target="_blank">
     <img align="center" alt="Junlee | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
